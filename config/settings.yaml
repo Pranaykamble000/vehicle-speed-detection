@@ -1,0 +1,7 @@
+model_path: "models/yolov8n.pt"
+pixel_per_meter : 10
+line_a_y: 250
+line_b_y: 400
+video_source: 0  
+# 0 = default webcam
+log_file: logs/speed_log.csv

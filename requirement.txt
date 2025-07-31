@@ -1,0 +1,10 @@
+ultralytics==8.0.197
+opencv-python
+numpy
+pandas
+filterpy
+scipy
+lap
+scikit-image
+deep_sort_realtime
+PyYAML
