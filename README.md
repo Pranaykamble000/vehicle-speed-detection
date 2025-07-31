@@ -34,12 +34,12 @@ Ensure you have Python 3.7 or higher installed. It's recommended to create a vir
 
 
 2. **Create Virtual Environment**:
-    python -m venv venv
-   venv\Scripts\activate
-pip install -r requirements.txt
-       deactivate
+    `python -m venv venv`
+  `venv\Scripts\activate`
+`pip install -r requirements.txt`
+       `deactivate`
 
-   python vehicle_speed_detection.py --input 0 --output video/output_video.mp4
+   **python vehicle_speed_detection.py --input 0 --output video/output_video.mp4**
 
 ### Key Points to Remember:
 - **Activate the virtual environment** before installing dependencies.
